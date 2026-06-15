@@ -1,0 +1,6 @@
+{
+  "name": "NayePankh Foundation",
+  "description": "A responsive and beautifully animated portal for NayePankh Foundation, showcasing NGO campaigns, statistics, success stories, donation simulator, and volunteer registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
